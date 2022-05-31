@@ -1,4 +1,4 @@
-# testrepo
+# Test Repo
 
 This repo shows a GitHub action that uses the Telegram API to notify whenever pushes are made within this repo
 This is done via the following Telegram channel: https://t.me/+MqIziuvU86RkYmE1
